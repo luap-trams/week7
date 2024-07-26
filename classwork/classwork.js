@@ -20,7 +20,7 @@ const tag = document.getElementsByTagName('li')
 tag[3].textContent = 'Kamso'
 // Styling gradient for the 9th element of ol
 const bg_gradient = document.querySelectorAll('ol li')
-bg_gradient[9].style.backgroundImage = 'linear-gradient(90deg, green 40%, white 41%, white 65%, Green 66%)'
+bg_gradient[9].style.backgroundImage = 'linear-gradient(90deg, green 33.33%, white 33.33%, white 66.67%, Green 66.67%)'
 
 
 
