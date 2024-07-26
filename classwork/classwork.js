@@ -1,5 +1,5 @@
 // Applying background color to the page
-document.body.style.background = 'lime'
+document.body.style.background = 'orange'
 // Adding a text to the id:mad
 const mad = document.getElementById('mad')
 mad.textContent = 'Samuel'
