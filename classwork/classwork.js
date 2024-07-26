@@ -6,7 +6,7 @@ mad.textContent = 'Samuel'
 // Selecting the first child element of ol and giving it a text
 const qsel = document.querySelector('ol>:nth-of-type(1)')
 qsel.textContent = 'Genesis'
-
+// Select the ninth child element of ol and give it a text
 const qsel9 = document.querySelector('ol>:nth-of-type(9)')
 qsel9.textContent = 'Clara'
 // In reference to the parent ol, target the 10 child element and give it a background color of white
